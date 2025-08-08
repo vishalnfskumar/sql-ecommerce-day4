@@ -17,7 +17,7 @@ In this task, I explored and analyzed the popular **Olist E-Commerce Dataset** u
 ---
 
 ## 🎯 Objectives
-- Write efficient SQL queries to analyze e-commerce data
+- SQL queries to analyze e-commerce data
 - Use **joins**, **aggregates**, **subqueries**, **views**, **CASE**, and **indexes**
 - Create insights on customer behavior, sales, reviews, and performance
 - Practice interview-ready SQL questions
@@ -28,7 +28,7 @@ In this task, I explored and analyzed the popular **Olist E-Commerce Dataset** u
 - **MySQL**
 - CSV Import Wizard
 - GitHub
-- SQL Workbench / pgAdmin / SQLite (any one)
+- SQL Workbench
 
 ---
 
@@ -57,19 +57,9 @@ In this task, I explored and analyzed the popular **Olist E-Commerce Dataset** u
 
 ---
 
-## 📸 Screenshots
-> 💡 *(Add 2–3 screenshots from your SQL output or GUI here)*
-
----
-
-## 🔗 Submission Link
-[📤 Google Form Submission](https://forms.gle/p8F9dtXF1GrHx5wU8)
-
----
-
 ## 🏷️ Tags
 #SQL #DataAnalysis #DataAnalystInternship #MySQL #Joins #Subqueries #Views #CASE #EcommerceData #ElevateLabs #Task4 #OlistDataset #ARPU #GitHubProject
 
 ---
 
-👨‍💻 Made with curiosity and coffee by [Your Name]
+👨‍💻 Made with curiosity by [vishal kumar]
